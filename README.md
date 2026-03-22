@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 CSE Student
-- 💻 DSA (Java) + 
+- 💻 DSA (Java)  
 - 🎯 Preparing for Software Jobs
 
 ## 🛠 Skills
